@@ -1,0 +1,7 @@
+torch
+matplotlib
+numpy
+tqdm
+
+# Optional: enables GPU power/energy estimation support via pynvml
+nvidia-ml-py

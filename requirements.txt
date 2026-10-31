@@ -1,0 +1,12 @@
+torch
+torchvision
+torchdiffeq
+numpy
+matplotlib
+seaborn
+tqdm
+dill
+colorama
+clean-fid
+pillow
+nvidia-ml-py
