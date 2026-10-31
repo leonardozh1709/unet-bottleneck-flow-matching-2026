@@ -1,6 +1,7 @@
 ![CIFAR-10 samples from across the project.](_docs/misc_generated_samples.png)
 
-# Perturbing and Penalizing the U-Net Bottleneck in Flow Matching
+# Experiments on the U-Net Bottleneck in Flow Matching
+
 ## An Empirical Deep Learning Study
 
 All training, sampling and evaluation code used in the paper can be found here.
@@ -19,6 +20,7 @@ You can chose a model suffix at the top of the file.
 
 ## Repository structure
 
+```
 ├── main/
 │   ├── SAMPLING_MASTER.py
 │   ├── training.py
@@ -70,3 +72,4 @@ You can chose a model suffix at the top of the file.
 ├── README.md
 ├── requirements.txt
 └── structure.txt
+```
