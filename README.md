@@ -37,7 +37,7 @@ Lower FID indicates better sample quality.
 All model weights are in the outputs folder in this google drive link: 
 [**Download trained model weights (google drive)**](https://drive.google.com/drive/folders/1Vx8VBGTXRCvC12-4gMRCAawB45DCY_sJ?usp=drive_link)
 
-Unzip that folder into the project root to load and use those models.
+Unzip that folder so you have an `outputs` folder in the repo root that contains the individual model subfolders. The scripts in this project automatically load from there.
 
 ---
 
