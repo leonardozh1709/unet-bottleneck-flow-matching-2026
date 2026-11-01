@@ -1,7 +1,10 @@
-![CIFAR-10 samples from across the project.](_docs/misc_generated_samples.png)
 
 # Experiments on the U-Net Bottleneck in Flow Matching
 ## An Empirical Deep Learning Study
+
+All training, sampling and evaluation code used in the paper can be found here.
+
+![CIFAR-10 samples from across the project.](_docs/misc_generated_samples.png)
 
 ---
 
@@ -20,11 +23,17 @@ The results come from mini-scale models trained for 400 epochs with a constant l
 
 ---
 
-All training, sampling and evaluation code used in the paper can be found here.
+![Summary of FID-50k results from both experiments.]()
+
+---
+
+### Model Weights
 
 All model weights are in the outputs folder in this google drive link: https://drive.google.com/drive/folders/1Vx8VBGTXRCvC12-4gMRCAawB45DCY_sJ?usp=drive_link
 
 Unzip that folder into the project root to load and use those models.
+
+---
 
 ### Setup/Usage
 
