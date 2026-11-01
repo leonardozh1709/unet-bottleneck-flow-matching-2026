@@ -23,7 +23,7 @@ The results come from mini-scale models trained for 400 epochs with a constant l
 
 ---
 
-![Summary of FID-50k results from both experiments.]()
+![Summary of FID-50k results from both experiments.](_docs/FID50k_results_summary.png)
 
 ---
 
