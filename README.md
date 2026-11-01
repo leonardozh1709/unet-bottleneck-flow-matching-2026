@@ -23,13 +23,19 @@ The results come from mini-scale models trained for 400 epochs with a constant l
 
 ---
 
+### FID-50k Results
+
+Comparison of FID-50k across different bottleneck interventions and hyperparameter configurations.
+Lower FID indicates better sample quality.
+
 ![Summary of FID-50k results from both experiments.](_docs/FID50k_results_summary_new.png)
 
 ---
 
 ### Model Weights
 
-All model weights are in the outputs folder in this google drive link: https://drive.google.com/drive/folders/1Vx8VBGTXRCvC12-4gMRCAawB45DCY_sJ?usp=drive_link
+All model weights are in the outputs folder in this google drive link: 
+[**Download trained model weights (google drive)**](https://drive.google.com/drive/folders/1Vx8VBGTXRCvC12-4gMRCAawB45DCY_sJ?usp=drive_link)
 
 Unzip that folder into the project root to load and use those models.
 
