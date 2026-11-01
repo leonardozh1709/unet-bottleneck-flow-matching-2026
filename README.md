@@ -21,3 +21,4 @@ You can choose a model suffix at the top of the file.
 
 ## Paper
 The full paper pdf can be found in `./_docs`.
+[Read the full paper (PDF)](_docs/full_paper_pdf.pdf)
