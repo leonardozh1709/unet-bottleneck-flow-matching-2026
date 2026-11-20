@@ -92,7 +92,7 @@ def compute_erf_batched(model, config=None, n_reps=32, batch_size=8, img_size=32
             w_center = act.shape[3] // 2
             central_units = act[:, :, h_center, w_center]
 
-            v = torch.randn_like(central_units)
+            v = torch.ones_like(central_units)
             model.zero_grad()
             central_units.backward(v)
 
